@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Custom  Button with Function
 // @namespace    http://tampermonkey.net/
-// @version      7.0
+// @version      8.0
 // @description  Custom  Button with Function
 // @author       Mr.Az
 // @match        *://*/*
