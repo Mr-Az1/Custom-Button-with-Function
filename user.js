@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Custom  Button with Function
 // @namespace    http://tampermonkey.net/
+// @require      https://github.com/Mr-Az1/Custom-Button-with-Function/blob/main/user.js
 // @version      8.0
 // @description  Custom  Button with Function
 // @author       Mr.Az
