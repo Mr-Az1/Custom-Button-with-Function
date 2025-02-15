@@ -2,7 +2,7 @@
 // @name         Custom  Button with Function
 // @namespace    http://tampermonkey.net/
 // @require      https://github.com/Mr-Az1/Custom-Button-with-Function/releases/download/Version/user.js
-// @version      7.0
+// @version      8.0
 // @description  Custom  Button with Function
 // @author       Mr.Az
 // @match        *://*/*
